@@ -1,4 +1,4 @@
-# 👋 Introducing Myself
+# Introducing Myself
 
 Greetings, I'm Chris – an aspiring self-taught Data Analyst specializing in data analysis, reporting, query optimization, database design, and data modeling.
 
