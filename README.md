@@ -2,10 +2,10 @@
 
 Greetings, I'm Chris – an aspiring self-taught Data Analyst specializing in data analysis, reporting, query optimization, database design, and data modeling.
 
-- 🔍 Querying data using SQL.
-- 📊 Generate reports and perform ad-hoc data analysis using SQL.
-- 🛠️ Developing dashboards on Power BI.
-- 📈 Data analysis and reporting using Excel.
+- Querying data using SQL.
+- Generating reports and performing ad-hoc data analysis using SQL.
+- Developing dashboards on Power BI.
+- Conducting data analysis and reporting using Excel.
 
 ## 🚀 Projects
 
