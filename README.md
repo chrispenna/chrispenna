@@ -1,6 +1,6 @@
 # Introducing Myself
 
-Greetings, I'm Chris – an aspiring self-taught Data Analyst specializing in data analysis, reporting, query optimization, database design, and data modeling.
+Hello, I'm Chris. A self-driven learner passionate about the intricacies of data. My journey involves diving into data analysis, perfecting query optimization, crafting intuitive database designs, and creating meaningful data models. Let's explore the world of data together.
 
 - Querying data using SQL.
 - Generating reports and performing ad-hoc data analysis using SQL.
