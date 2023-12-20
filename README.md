@@ -7,13 +7,13 @@ Greetings, I'm Chris – an aspiring self-taught Data Analyst specializing in da
 - 🛠️ Developing dashboards on Power BI.
 - 📈 Data analysis and reporting using Excel.
 
-## 📚 Projects
+- ## 📚 Projects
 
 Welcome to my portfolio, where I showcase my projects. Here are some highlights:
 
 - [Project 1](Link to Project 1): Brief description.
 - [Project 2](Link to Project 2): Brief description.
-- [Project 3](Link to Project 3): Brief description.
+- [SQL-Practice](https://github.com/chrispenna/SQL-problems/tree/main): Collection of SQL practice problems and solutions.
 
 ## 🛠️ Tools
 
