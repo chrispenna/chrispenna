@@ -13,7 +13,8 @@ Welcome to my portfolio, where I showcase my projects. Here are some highlights:
 
 - [Project 1](Link to Project 1): Brief description.
 - [Project 2](Link to Project 2): Brief description.
-- [SQL-Practice](https://github.com/chrispenna/SQL-problems/tree/main): Collection of SQL practice problems and solutions.
+- [SQL-Practice](https://github.com/chrispenna/SQL-Practice-Problems/blob/main/README.md): Collection of SQL practice problems and solutions.
+
 
 ## 🛠️ Tools
 
