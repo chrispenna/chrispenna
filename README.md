@@ -7,7 +7,7 @@ Greetings, I'm Chris – an aspiring self-taught Data Analyst specializing in da
 - Developing dashboards on Power BI.
 - Conducting data analysis and reporting using Excel.
 
-## 🚀 Projects
+## 🚀 Projects & Skill Exercises
 
 Welcome to my portfolio, where I showcase my projects. Here are some highlights:
 
