@@ -5,7 +5,7 @@ Greetings, I'm Chris – an aspiring Data Analyst specializing in data analysis,
 - 🔍 Querying data using SQL.
 - 📊 Generate reports and perform ad-hoc data analysis using SQL.
 - 🛠️ Developing dashboards on Power BI.
-- 📈 Data analysis and reporting Excel.
+- 📈 Data analysis and reporting using Excel.
 
 ## 📚 Projects
 
