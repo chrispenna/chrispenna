@@ -1,11 +1,11 @@
-# 👋 Hello, I'm Chris Penna
+# 👋 Introducing Myself
 
-🚀 Welcome to my GitHub profile! I'm a [Your Role/Profession] with expertise in [Your Areas of Expertise]. 
+Greetings, I'm Chris – an aspiring Data Analyst specializing in data analysis, reporting, query optimization, database design, and data modeling.
 
 - 🔍 Querying data using SQL.
 - 📊 Generate reports and perform ad-hoc data analysis using SQL.
-- 🛠️ Developing dashboards on Tableau and Looker Studio.
-- 📈 Data analysis and reporting using Google Sheets and Excel.
+- 🛠️ Developing dashboards on Power BI.
+- 📈 Data analysis and reporting Excel.
 
 ## 📚 Projects
 
@@ -20,8 +20,8 @@ Welcome to my portfolio, where I showcase my projects. Here are some highlights:
 I work with various tools and technologies. Here are some of them:
 
 - **Language:** SQL, Python
-- **Database:** Google BigQuery, PostgreSQL, MySQL
-- **Visualization:** Tableau, Looker Studio
+- **Database:** SQL Server, PostgreSQL, MySQL
+- **Visualization:** Power BI
 
 ## 👋 Connect with Me
 
