@@ -27,5 +27,5 @@ I work with various tools and technologies. Here are some of them:
 
 Let's connect! Feel free to reach out to me on:
 
-- [LinkedIn](Your LinkedIn Profile Link)
+- [[LinkedIn](Your LinkedIn Profile Link)](https://www.linkedin.com/in/chris-penna-0b524226b/)https://www.linkedin.com/in/chris-penna-0b524226b/
 - [Upwork](Your Upwork Profile Link)
